@@ -1,6 +1,6 @@
 # lineman-dogescript
 
-![https://raw.github.com/linemanjs/lineman-dogescript/master/doge.jpg]
+![Lineman-dogescript is a very serious plugin that provides configuration for including dogescript in your build using the grunt-dogescript module, which in turn relies on the official dogescript distrubtion from npm](https://raw.github.com/linemanjs/lineman-dogescript/master/doge.jpg)
 
 For [Lineman](http://linemanjs.com). See [grunt-dogescript](https://github.com/Bartvds/grunt-dogescript) for config.
 
