@@ -2,14 +2,14 @@
   "name": "lineman-dogescript",
   "title": "Such Doge, Plz Line man",
   "version": "0.0.1",
-  "homepage": "https://github.com/lineman/lineman-dogescript",
+  "homepage": "https://github.com/linemanjs/lineman-dogescript",
   "author": {
     "name": "Justin Searls",
     "company": "Test Double"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lineman/lineman-dogescript.git"
+    "url": "git://github.com/linemanjs/lineman-dogescript.git"
   },
   "main": "main.js",
   "dependencies": {
