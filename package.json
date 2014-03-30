@@ -1,15 +1,23 @@
 {
   "name": "lineman-dogescript",
-  "title": "Such Doge, Plz Line man",
+  "description": "Wow. Such Doge, Plz Line man",
   "version": "0.0.1",
   "homepage": "https://github.com/linemanjs/lineman-dogescript",
   "author": {
     "name": "Justin Searls",
-    "company": "Test Double"
+    "email": "justin@testdouble.com"
   },
+  "contributors": [
+    {
+      "name": "Kabosu"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/linemanjs/lineman-dogescript.git"
+    "url": "https://github.com/linemanjs/lineman-dogescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linemanjs/lineman-dogescript/issues"
   },
   "dependencies": {
     "grunt-dogescript": "~0.4.0",
@@ -21,7 +29,16 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://mit-license.org"
+      "url": "http://testdouble.mit-license.org"
     }
+  ],
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "doge",
+    "dogescript",
+    "wow",
+    "such",
+    "much"
   ]
 }
