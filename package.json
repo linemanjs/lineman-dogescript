@@ -11,7 +11,6 @@
     "type": "git",
     "url": "git://github.com/linemanjs/lineman-dogescript.git"
   },
-  "main": "main.js",
   "dependencies": {
     "grunt-dogescript": "~0.4.0",
     "coffee-script": "~1.6.3"
